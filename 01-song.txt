@@ -2,6 +2,11 @@
 This document is to practice Forking in Git.
 
 Site with Cool git info: http://learngitbranching.js.org/
+http://learngitbranching.js.org/?NODEMO
+
+Another site with good instructions:
+https://backlogtool.com/git-tutorial/en/stepup/stepup2_3.html
+
 
 This is the firls line of the song.
 
